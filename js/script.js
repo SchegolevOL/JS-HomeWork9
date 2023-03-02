@@ -2,7 +2,7 @@ let arr1 = [-1, 4, 7, 7, 9, 10, 10, 20, 30, 30, 30, 41];
 let arr2 = [0, 3, 4, 5, 6, 7, 11, 20, 20, 50];
 let arr3 = FuncSummArr(arr1, arr2);
 
-console.log(`Variant 1:  ${arr3}`);
+console.log(`Array:  ${arr3}`);
 
 
 
